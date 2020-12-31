@@ -1,7 +1,7 @@
 <?= $this->session->flashdata('pesan'); ?>
 <div class="right_col" role="main">
     <!-- top tiles -->
-    <h1 class="h3 mb-4 text-gray-800"><?= $title; ?></h1>
+    <h1 class="h3 mb-4 text-gray-800"> <?= $title; ?></h1>
     <!-- /top tiles -->
 
     <div class="row">
